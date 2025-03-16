@@ -1,0 +1,22 @@
+<?php
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    // Collect form data
+    $firstName = htmlspecialchars($_POST['First-name']);
+    $lastName = htmlspecialchars($_POST['Last-name']);
+    $email = htmlspecialchars($_POST['Email']);
+    $phone = htmlspecialchars($_POST['Phone']);
+    $message = htmlspecialchars($_POST['Message']);
+    // Set the recipient email address
+    $to = 'your-email@example.com'; // Replace with your email address
+    // Set the email subject
+    $subject = 'New Contact Form Submission';
+    // Create the email content
+    $emailContent = "Name: $firstName $lastName\n";
+    $emailContent .= "Email: $email\n";
+    $emailContent .= "Phone: $phone\n";
+    $emailContent .= "Message:\n$message\n";
+    // Set the email headers
+    $headers = "From: $firstName $lastName <$email>"; // Send the email if
+(mail($to, $subject, $emailContent, $headers)) { echo "Thank you! Your message
+has been sent."; } else { echo "Oops! Something went wrong, and we couldn't send
+your message."; } } else { echo "Invalid request."; } ?>
