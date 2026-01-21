@@ -41,7 +41,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,postgresql,redis,kafka,docker,spring,firebase,supabase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,c,mongodb,mysql,postgresql,nodejs,spring,react,nextjs,tailwind,express,redis,kafka,docker,firebase,supabase,oauth,git&theme=dark" />
 
 </div>
 
