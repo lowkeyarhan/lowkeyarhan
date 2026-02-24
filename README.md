@@ -1,114 +1,74 @@
-<!-- =============================== -->
-<!--  PREMIUM PORTFOLIO README -->
-<!-- =============================== -->
-
 <div align="center">
-
-<!-- Hero Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0b0b,100:1a1a1a&height=260&section=header&text=Hi,%20I’m%20Arhan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=22&pause=900&color=BBBBBB&center=true&vCenter=true&width=700&lines=A+Full+Stack+Developer+in+the+Making;Design+%2B+Engineering+%2B+Motion;I+Build+Things+for+the+Web" />
 
 <br/>
 
-<a href="https://github.com/lowkeyarhan">
-  <img src="https://img.shields.io/badge/GitHub-lowkeyarhan-0b0b0b?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://linkedin.com/in/imnotarhannnnn">
-  <img src="https://img.shields.io/badge/LinkedIn-Arhan_Das-0b0b0b?style=for-the-badge&logo=linkedin"/>
-</a>
+# Arhan Das
 
-</div>
-
----
-
-<!-- Soft glow divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:0b0b0b&height=3&animation=fadeIn"/>
-
-## 👋 About Me
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=400&color=9f9f9f&center=true&vCenter=true&width=900&lines=I+make+things+for+the+web.;Focused+on+clean+UI%2C+performance%2C+and+systems.;Always+learning%2C+always+shipping." />
-
-</div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0b0b,100:1a1a1a&height=3"/>
-
-## 🧩 Technology Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,c,mongodb,mysql,postgresql,nodejs,spring,react,nextjs,tailwind,express,redis,kafka,docker,firebase,supabase,oauth,git&theme=dark" />
-
-</div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:0b0b0b&height=3"/>
-
-## 🚀 Projects
-
-### ✦ Snugglr
-> Anonymous campus social & dating platform
-
-- Anonymous confessions & chats  
-- Real-time likes, comments & matches  
-- WebSocket-powered messaging  
-- Gamified identity reveal  
-- Admin dashboard  
-
-**Tech:** React, Tailwind, Express, MongoDB, WebSockets  
-**Status:** In Development
-
----
-
-### ✦ Riyura 2.0
-> Streaming platform redesign
-
-- Revamped UI/UX  
-- Optimized caching & performance  
-- Motion-driven interactions  
-
-**Tech:** Next.js, Supabase, SQL, Framer Motion
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0b0b,100:1a1a1a&height=3"/>
-
-## 💼 Experience
-
-**Freelance Video Editor**  
-_March 2025 – October 2025_
-
-- Cinematic visuals  
-- Professional color grading  
-- Sound design  
-
-This is why my interfaces have rhythm.
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:0b0b0b&height=3"/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=lowkeyarhan&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&icon_color=ffffff&text_color=9f9f9f"/>
+Full Stack · Backend · Distributed Systems · Bengaluru
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowkeyarhan&layout=compact&hide_border=true&theme=transparent&title_color=ffffff&text_color=9f9f9f"/>
+[![Portfolio](https://img.shields.io/badge/whoisarhan.vercel.app-↗-000?style=flat-square&labelColor=000&color=000)](https://whoisarhan.vercel.app)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-↗-000?style=flat-square&labelColor=000&color=000)](https://linkedin.com/in/imnotarhannnnn)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-↗-000?style=flat-square&labelColor=000&color=000)](mailto:anup.arhan.das@gmail.com)
 
-</div>
+<br/>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0b0b,100:1a1a1a&height=140&section=footer"/>
+<br/>
 
-<div align="center" style="opacity:0.6">
-Built with intent. Still evolving.
+### I build for the web.
+
+Building STUFF for the web. Backend by instinct. Frontend when needed. Designer when no one's looking.
+
+I write code that scales, ships, and doesn't embarrass me. Yes, I care most about perfectionism and real-life usability.
+
+Previously a video editor, which is probably why my UIs have better rhythm than my sleep schedule.
+
+Currently a full-time student.
+
+<br/>
+
+---
+
+<br/>
+
+**Languages** &nbsp;·&nbsp; Java &nbsp;·&nbsp; JavaScript / TypeScript &nbsp;·&nbsp; Python &nbsp;·&nbsp; SQL &nbsp;·&nbsp; Bash
+
+**Backend** &nbsp;·&nbsp; Spring Boot &nbsp;·&nbsp; Spring Security &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; Express &nbsp;·&nbsp; WebSocket &nbsp;·&nbsp; REST
+
+**Frontend** &nbsp;·&nbsp; React &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; Tailwind CSS &nbsp;·&nbsp; Framer Motion
+
+**Databases** &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; MongoDB &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; Redis &nbsp;·&nbsp; Supabase &nbsp;·&nbsp; Firebase &nbsp;·&nbsp; Cassandra
+
+**DevOps & Tooling** &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Kafka &nbsp;·&nbsp; Kubernetes &nbsp;·&nbsp; GitHub Actions &nbsp;·&nbsp; Swagger / OpenAPI &nbsp;·&nbsp; Postman
+
+**Concepts** &nbsp;·&nbsp; Distributed Systems &nbsp;·&nbsp; Microservices &nbsp;·&nbsp; Operating Systems &nbsp;·&nbsp; System Design &nbsp;·&nbsp; Concurrency &nbsp;·&nbsp; Event-Driven Architecture &nbsp;·&nbsp; RBAC &nbsp;·&nbsp; JWT / OAuth &nbsp;·&nbsp; Android OC
+
+<br/>
+
+---
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=lowkeyarhan&show_icons=true&hide_border=true&theme=transparent&title_color=cccccc&icon_color=666666&text_color=888888&hide_rank=false&include_all_commits=true&count_private=true" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowkeyarhan&layout=compact&hide_border=true&theme=transparent&title_color=cccccc&text_color=888888&langs_count=6" height="160"/>
+
+<br/>
+
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=lowkeyarhan&theme=transparent&hide_border=true&ring=888888&fire=cccccc&currStreakLabel=888888&sideLabels=888888&dates=666666&currStreakNum=cccccc&sideNums=cccccc&stroke=00000000)
+
+<br/>
+
+---
+
+<br/>
+
+*Slow to respond. Worth the wait.*
+
+<br/>
+<br/>
+
 </div>
