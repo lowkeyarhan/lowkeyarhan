@@ -52,13 +52,13 @@ Currently a full-time student.
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=lowkeyarhan&show_icons=true&hide_border=true&theme=transparent&title_color=cccccc&icon_color=666666&text_color=888888&hide_rank=false&include_all_commits=true&count_private=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=lowkeyarhan&show_icons=true&hide_border=true&theme=transparent&title_color=cccccc&icon_color=666666&text_color=888888&include_all_commits=true&count_private=true" height="155"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowkeyarhan&layout=compact&hide_border=true&theme=transparent&title_color=cccccc&text_color=888888&langs_count=6" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowkeyarhan&layout=compact&hide_border=true&theme=transparent&title_color=cccccc&text_color=888888&langs_count=6&count_private=true" height="155"/>
 
-<br/>
+<br/><br/>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=lowkeyarhan&theme=transparent&hide_border=true&ring=888888&fire=cccccc&currStreakLabel=888888&sideLabels=888888&dates=666666&currStreakNum=cccccc&sideNums=cccccc&stroke=00000000)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lowkeyarhan&bg_color=00000000&color=888888&line=666666&point=cccccc&area=true&area_color=333333&hide_border=true" width="100%"/>
 
 <br/>
 
