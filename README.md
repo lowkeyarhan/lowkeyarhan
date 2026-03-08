@@ -34,7 +34,7 @@ Currently a full-time student.
 
 <br/>
 
-**Languages** &nbsp;·&nbsp; Java &nbsp;·&nbsp; JavaScript / TypeScript &nbsp;·&nbsp; Python &nbsp;·&nbsp; SQL &nbsp;·&nbsp; Bash
+**Languages** &nbsp;·&nbsp; Java &nbsp;·&nbsp; JavaScript / TypeScript &nbsp;·&nbsp; Python &nbsp;·&nbsp; SQL &nbsp;·&nbsp; Bash &nbsp;·&nbsp; MQ5 &nbsp;·&nbsp; C
 
 **Backend** &nbsp;·&nbsp; Spring Boot &nbsp;·&nbsp; Spring Security &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; Express &nbsp;·&nbsp; WebSocket &nbsp;·&nbsp; REST
 
@@ -44,7 +44,7 @@ Currently a full-time student.
 
 **DevOps & Tooling** &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Kafka &nbsp;·&nbsp; Kubernetes &nbsp;·&nbsp; GitHub Actions &nbsp;·&nbsp; Swagger / OpenAPI &nbsp;·&nbsp; Postman
 
-**Concepts** &nbsp;·&nbsp; Distributed Systems &nbsp;·&nbsp; Microservices &nbsp;·&nbsp; Operating Systems &nbsp;·&nbsp; System Design &nbsp;·&nbsp; Concurrency &nbsp;·&nbsp; Event-Driven Architecture &nbsp;·&nbsp; RBAC &nbsp;·&nbsp; JWT / OAuth &nbsp;·&nbsp; Android OC
+**Concepts** &nbsp;·&nbsp; Distributed Systems &nbsp;·&nbsp; Microservices &nbsp;·&nbsp; Scalability &nbsp;·&nbsp; Operating Systems &nbsp;·&nbsp; System Design &nbsp;·&nbsp; Concurrency &nbsp;·&nbsp; Event-Driven Architecture &nbsp;·&nbsp; RBAC &nbsp;·&nbsp; JWT / OAuth &nbsp;·&nbsp; Android OC
 
 <br/>
 
