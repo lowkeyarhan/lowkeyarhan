@@ -4,7 +4,7 @@
 
 # Arhan Das
 
-Full Stack · Backend · Distributed Systems · Bengaluru
+Backend · Distributed Systems · Scalability · Bengaluru
 
 <br/>
 
