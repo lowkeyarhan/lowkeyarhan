@@ -24,7 +24,7 @@ Building STUFF for the web. Backend by instinct. Frontend when needed. Designer 
 
 I write code that scales, ships, and doesn't embarrass me. Yes, I care most about perfectionism and real-life usability.
 
-Previously a video editor, which is probably why my UIs have better rhythm than my sleep schedule.
+Previously a video editor, which is probably why my UIs look sexy (atleast I think so.
 
 Currently a full-time student.
 
