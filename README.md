@@ -42,7 +42,7 @@ Currently a full-time student.
 
 **Databases** &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; MongoDB &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; Redis &nbsp;·&nbsp; Supabase &nbsp;·&nbsp; Firebase &nbsp;·&nbsp; Cassandra
 
-**DevOps & Tooling** &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Kafka &nbsp;·&nbsp; Kubernetes &nbsp;·&nbsp; GitHub Actions &nbsp;·&nbsp; Swagger / OpenAPI &nbsp;·&nbsp; Postman
+**DevOps & Tooling** &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Kafka &nbsp;·&nbsp; Kubernetes &nbsp;·&nbsp; GitHub Actions &nbsp;·&nbsp; Swagger / OpenAPI &nbsp;·&nbsp; Postman &nbsp;·&nbsp; Grafana &nbsp;·&nbsp; Loki
 
 **Concepts** &nbsp;·&nbsp; Distributed Systems &nbsp;·&nbsp; Microservices &nbsp;·&nbsp; Scalability &nbsp;·&nbsp; Operating Systems &nbsp;·&nbsp; System Design &nbsp;·&nbsp; Concurrency &nbsp;·&nbsp; Event-Driven Architecture &nbsp;·&nbsp; RBAC &nbsp;·&nbsp; JWT / OAuth &nbsp;·&nbsp; Android OC
 
