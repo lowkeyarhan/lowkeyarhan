@@ -4,7 +4,7 @@
 
 # Arhan Das
 
-Backend · Distributed Systems · Scalability · Bengaluru
+SDE · Distributed Systems · Scalability · Bengaluru
 
 <br/>
 
