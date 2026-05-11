@@ -36,15 +36,16 @@ Currently a full-time student.
 
 **Languages** &nbsp;|&nbsp; Java &nbsp;·&nbsp; JavaScript / TypeScript &nbsp;·&nbsp; Python &nbsp;·&nbsp; SQL &nbsp;·&nbsp; Bash &nbsp;·&nbsp; MQ5 &nbsp;·&nbsp; C
 
-**Backend** &nbsp;|&nbsp; Spring Boot &nbsp;·&nbsp; Spring Security &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; Express.Js &nbsp;·&nbsp; WebSockets &nbsp;·&nbsp; REST APIs
+**Backend** &nbsp;|&nbsp; Spring Boot &nbsp;·&nbsp; Spring Security &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; Express.Js &nbsp;·&nbsp; REST APIs
 
 **Frontend** &nbsp;|&nbsp; React &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; Tailwind CSS &nbsp;·&nbsp; Framer Motion
 
 **Databases** &nbsp;|&nbsp; PostgreSQL &nbsp;·&nbsp; MongoDB &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; Redis &nbsp;·&nbsp; Supabase &nbsp;·&nbsp; Firebase &nbsp;·&nbsp; Cassandra
 
-**DevOps & Tooling** &nbsp;|&nbsp; Docker &nbsp;·&nbsp; Apache Kafka &nbsp;·&nbsp; Apache JMeter &nbsp;·&nbsp; Kubernetes &nbsp;·&nbsp; GitHub Actions &nbsp;·&nbsp; Swagger / OpenAPI &nbsp;·&nbsp; Postman &nbsp;·&nbsp; Grafana &nbsp;·&nbsp; Prometheus &nbsp;·&nbsp; Loki
+**Tools** &nbsp;|&nbsp; Apache Kafka &nbsp;·&nbsp; Apache JMeter &nbsp;·&nbsp; Swagger / OpenAPI &nbsp;·&nbsp; Postman
+**DevOps** &nbsp;|&nbsp; Docker &nbsp;·&nbsp; Kubernetes &nbsp;·&nbsp; GitHub Actions &nbsp;·&nbsp; Grafana &nbsp;·&nbsp; Prometheus &nbsp;·&nbsp; Loki
 
-**Concepts** &nbsp;|&nbsp; Distributed Systems &nbsp;·&nbsp; Microservices &nbsp;·&nbsp; Scalability &nbsp;·&nbsp; Operating Systems &nbsp;·&nbsp; System Design &nbsp;·&nbsp; Concurrency &nbsp;·&nbsp; Event-Driven Architecture &nbsp;·&nbsp; RBAC &nbsp;·&nbsp; OAuth &nbsp;·&nbsp; Android OC
+**Concepts** &nbsp;|&nbsp; Distributed Systems &nbsp;·&nbsp; Microservices &nbsp;·&nbsp; Scalability &nbsp;·&nbsp; Operating Systems &nbsp;·&nbsp; System Design &nbsp;·&nbsp; Concurrency &nbsp;·&nbsp; Event-Driven Architecture &nbsp;·&nbsp; OAuth &nbsp;·&nbsp; Android OC &nbsp;·&nbsp; Low-level Design
 
 <br/>
 
