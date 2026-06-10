@@ -48,16 +48,16 @@ Previously a video editor, which probably explains the obsession with pacing, st
 `Spring Boot` · `Spring Security` · `Node.js` · `Express.js` · `REST APIs`
 
 ### Frontend
-`React` · `Next.js` · `Tailwind CSS` · `React Native`
+`React` · `Next.js` · `Tailwind CSS` · `React Native` · `Electron Js`
 
 ### Databases
 `PostgreSQL` · `MongoDB` · `MySQL` · `Redis` · `Supabase` · `Firebase` · ` Apache Cassandra`
 
 ### DevOps / Infra
-`Docker` · `Kubernetes` · `GitHub Actions` · `Grafana` · `Prometheus` · `Loki`
+`Docker` · `Kubernetes` · `GitHub Actions` · `Grafana` · `Prometheus` · `Loki` · `Electric` 
 
 ### Tools
-`Apache Kafka` · `Apache JMeter` · `Swagger/OpenAPI` · `Postman`
+`Apache Kafka` · `Apache JMeter` · `Swagger/OpenAPI` · `Postman` · `Caddy`
 
 ### Core Concepts
 `Distributed Systems` · `Microservices` · `Scalability` · `System Design` · `Concurrency` · `Operating Systems` · `Event-Driven Architecture` · `OAuth` · `Low-Level Design` · `Android OS`
