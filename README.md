@@ -1,51 +1,89 @@
-<img src="./assets/hero.svg" width="100%" alt="Arhan Das — backend-first engineer, distributed systems, Bengaluru" />
+<div align="center">
 
-[Portfolio](https://whoisarhan.vercel.app) · [LinkedIn](https://linkedin.com/in/imnotarhannnnn) · [Email](mailto:anup.arhan.das@gmail.com)
+# Arhan Das
 
-<br/>
-
-`// about`
-
-I build software that's meant to be used, not admired in a demo and forgotten. Backend is where I think fastest — frontend is where I polish until it stops embarrassing me. I care about scalability, clean architecture, and products that hold up under real traffic, not just a happy-path walkthrough.
-
-Before this, I edited video for a living. It probably explains the obsession with pacing, structure, and visuals that don't read like an afterthought.
-
-- Designing backend systems built to scale, not just survive a demo
-- Shipping full-stack products with UI that holds up to scrutiny
-- Turning ambiguous ideas into systems with clear boundaries
+**Backend-first engineer · Distributed systems · Scalable products · Bengaluru**
 
 <br/>
 
-`// core.focus`
-
-<img src="./assets/topology.svg" width="100%" alt="Core focus areas: distributed systems, event-driven architecture, microservices, concurrency, scalability, low-level design, system design, OAuth, operating systems, Android OS" />
-
-<br/>
-
-`// stack`
-
-<img src="./assets/stack.svg" width="100%" alt="Tech stack manifest grouped by languages, backend, frontend, data, infra, and tooling" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-whoisarhan.vercel.app-000000?style=flat-square&labelColor=000000)](https://whoisarhan.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000000?style=flat-square&labelColor=000000)](https://linkedin.com/in/imnotarhannnnn)
+[![Email](https://img.shields.io/badge/Email-Contact-000000?style=flat-square&labelColor=000000)](mailto:anup.arhan.das@gmail.com)
 
 <br/>
 
-`// activity`
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:111111&height=120&section=header&text=Building%20things%20that%20ship.%20And%20survive.&fontSize=24&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Graphic"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=lowkeyarhan&show_icons=true&hide_border=true&bg_color=0B0B0D&title_color=F2F1EC&icon_color=E2703A&text_color=8B8B86&include_all_commits=true&count_private=true&rank_icon=none" height="190" alt="lowkeyarhan's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowkeyarhan&layout=compact&hide_border=true&bg_color=0B0B0D&title_color=F2F1EC&text_color=8B8B86&langs_count=6&count_private=true" height="190" alt="Most used languages" />
+</div>
 
-<img src="https://streak-stats.demolab.com/?user=lowkeyarhan&hide_border=true&background=0B0B0D&stroke=222224&ring=E2703A&fire=E2703A&currStreakLabel=F2F1EC&currStreakNum=F2F1EC&sideLabels=8B8B86&sideNums=F2F1EC&dates=8B8B86" width="100%" alt="lowkeyarhan's GitHub streak" />
+---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lowkeyarhan&bg_color=0B0B0D&color=8B8B86&line=E2703A&point=F2F1EC&area=true&area_color=1A1410&hide_border=true" width="100%" alt="lowkeyarhan's contribution activity" />
+## About
+
+I build STUFF. Backend by instinct. Frontend when needed. Designer when no one's looking.
+</br>
+I make agents write code that scales, ships, and doesn't embarrass me.
+</br>
+Yes, I do care about perfectionism and real-life usability.
+</br>
+Have been a professional video editor, freelancer and post productionist for 8 long years, which prolly explains why my UI looks sexy.
+
+### Previously
+
+> A cracked dev, freelance video editor, android kernel OS developer, EDM productionist
+
+### Currently
+
+> A full time student, a cracked dev, a movie maniac and a parttime gamer (yes I game on a mac, typical indie dev)
+
+---
+
+## Tech Stack
+
+### Languages
+
+`Java` `JavaScript` `TypeScript` `Python` `SQL` `Bash` `C` `MQL5`
+
+### Backend
+
+`SpringBoot` `NestJs` `Node.js` `ExpressJs` `REST APIs` `gRPC`
+
+### Frontend
+
+`React` `Next.js` `Tailwind CSS` `React Native` `Electron Js`
+
+### Databases
+
+`PostgreSQL` `MongoDB` `MySQL` `Redis` `Supabase` `Firebase` `Apache Cassandra`
+
+### DevOps & Infra
+
+`Docker` `Kubernetes` `GitHub Actions` `Grafana` `Prometheus` `Loki` `Electric` `OpenTelemetry` `PostHog`
+
+### Tools & Concepts
+
+`Apache Kafka` `Apache JMeter` `Swagger/OpenAPI` `Postman` `Caddy` `Distributed Systems` `Microservices` `Scalability` `System Design` `Concurrency` `Operating Systems` `Event-Driven Architecture` `OAuth` `Low-Level Design` `Android OS`
 
 <br/>
 
-`// working style`
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=lowkeyarhan&hide_border=true&background=0B0B0D&stroke=222224&ring=E2703A&fire=E2703A&currStreakLabel=F2F1EC&currStreakNum=F2F1EC&sideLabels=8B8B86&sideNums=F2F1EC&dates=8B8B86" width="100%" alt="lowkeyarhan's GitHub streak" />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lowkeyarhan&bg_color=0B0B0D&color=8B8B86&line=E2703A&point=F2F1EC&area=true&area_color=1A1410&hide_border=true" width="100%" alt="lowkeyarhan's contribution activity" />
+</div>
 
-- Clarity over noise — in code, in docs, in conversation
-- Systems that are simple, robust, and built to scale before they have to
-- Real usability over a shiny surface
-- Iterate until it feels expensive, then ship it
+---
 
-<br/>
+## Currently
 
-<sub>Slow to respond. Hard to ignore.</sub>
+- Sitting through university lectures while secretly managing AWS configurations under the desk.
+- Hunting down memory leaks and lockups because peaceful sleep is _faltu_ (useless) anyway.
+- Constantly optimizing queries because waiting for slow database responses is not my style.
+
+---
+
+<div align="center">
+
+_Slow to respond. Hard to ignore._
+
+</div>
