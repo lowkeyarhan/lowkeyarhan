@@ -34,7 +34,7 @@ Also a professional video editor, freelancer and post productionist with 8YOE, w
 
 ### Currently
 
-> A full time student, a cracked dev, a movie maniac and a parttime gamer (yes I game on a mac, typical indie dev)
+> Leaning agentic harness engineering, a full time student, a cracked dev, a movie maniac and a parttime gamer (yes I game on a mac, typical indie dev)
 
 ---
 
