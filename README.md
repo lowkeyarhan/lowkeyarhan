@@ -26,11 +26,11 @@ I make agents write code that scales, ships, and doesn't embarrass me.
 </br>
 Yes, I do care about perfectionism and real-life usability.
 </br>
-Have been a professional video editor, freelancer and post productionist for 8 long years, which prolly explains why my UI looks sexy.
+Also a professional video editor, freelancer and post productionist with 8YOE, which prolly explains why my UI looks sexy.
 
 ### Previously
 
-> A cracked dev, freelance video editor, android kernel OS developer, EDM productionist
+> A professional freelance video editor, android kernel OS developer, EDM productionist
 
 ### Currently
 
