@@ -30,11 +30,11 @@ Also a professional video editor, freelancer and post productionist with 8YOE, w
 
 ### Previously
 
-> A professional freelance video editor, android kernel OS developer, EDM productionist
+> A professional freelance video editor, MT6785 android kernel QA, EDM producer
 
 ### Currently
 
-> Leaning agentic harness engineering, a full time student, a cracked dev, a movie maniac and a parttime gamer (yes I game on a mac, typical indie dev)
+> Leaning agentic harness engineering, a full time student, a cracked dev, a movie maniac and a part-time gamer (yes I game on a mac)
 
 ---
 
@@ -62,7 +62,7 @@ Also a professional video editor, freelancer and post productionist with 8YOE, w
 
 ### Tools & Concepts
 
-`Apache Kafka` `Apache JMeter` `Swagger/OpenAPI` `Postman` `Caddy` `Distributed Systems` `Microservices` `Scalability` `System Design` `Concurrency` `Operating Systems` `Event-Driven Architecture` `OAuth` `Low-Level Design` `Android OS`
+`Apache Kafka` `Apache JMeter` `Swagger/OpenAPI` `Postman` `Caddy` `Distributed Systems` `Microservices` `Scalability` `System Design` `Concurrency` `Operating Systems` `Event-Driven Architecture` `OAuth` `Low-Level Design` `Android OS` `Computer hardware` 
 
 <br/>
 
