@@ -74,14 +74,6 @@ Also a professional video editor, freelancer and post productionist with 8YOE, w
 
 ---
 
-## Currently
-
-- Sitting through university lectures while secretly managing AWS configurations under the desk.
-- Hunting down memory leaks and lockups because peaceful sleep is _faltu_ (useless) anyway.
-- Constantly optimizing queries because waiting for slow database responses is not my style.
-
----
-
 <div align="center">
 
 _Slow to respond. Hard to ignore._
