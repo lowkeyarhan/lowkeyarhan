@@ -42,19 +42,23 @@ Also a professional video editor, freelancer and post productionist with 8YOE, w
 
 ### Languages
 
-`Java` `JavaScript` `TypeScript` `Python` `SQL` `Bash` `C` `MQL5`
+`Java` `Js/Ts` `Python` `SQL` `Bash/Shell` `C` `MQL5`
 
 ### Backend
 
-`SpringBoot` `NestJs` `Node.js` `ExpressJs` `REST APIs` `gRPC`
+`SpringBoot` `NestJs` `ExpressJs` `REST APIs` `gRPC`
 
 ### Frontend
 
 `React` `Next.js` `Tailwind CSS` `React Native` `Electron Js`
 
+### AI
+
+`Agent orchestration` `Langraph` `MCP` `RAG` `Harness Engineering` `Safety Engineering` `MinHash & LSH`
+
 ### Databases
 
-`PostgreSQL` `MongoDB` `MySQL` `Redis` `Supabase` `Firebase` `Apache Cassandra`
+`PostgreSQL` `MongoDB` `MySQL` `Redis` `Supabase` `Apache Cassandra`
 
 ### DevOps & Infra
 
@@ -62,7 +66,7 @@ Also a professional video editor, freelancer and post productionist with 8YOE, w
 
 ### Tools & Concepts
 
-`Apache Kafka` `Apache JMeter` `Swagger/OpenAPI` `Postman` `Caddy` `Distributed Systems` `Microservices` `Scalability` `System Design` `Concurrency` `Operating Systems` `Event-Driven Architecture` `OAuth` `Low-Level Design` `Android OS` `Computer hardware` 
+`Apache Kafka` `Apache JMeter` `Postman` `Distributed Systems` `Microservices` `Scalability` `System Design` `Concurrency` `Operating Systems` `Event-Driven Architecture` `Low-Level Design` `Android OS` `Computer hardware` 
 
 <br/>
 
