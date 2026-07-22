@@ -54,19 +54,19 @@ Also a professional video editor, freelancer and post productionist with 8YOE, w
 
 ### AI
 
-`Agent orchestration` `Langraph` `MCP` `RAG` `Harness Engineering` `Safety Engineering` `MinHash & LSH`
+`Agent orchestration` `Langraph` `MCP` `RAG` `Harness Engineering` `Safety Engineering` `MinHash & LSH` `KVCache`
 
 ### Databases
 
-`PostgreSQL` `MongoDB` `MySQL` `Redis` `Supabase` `Apache Cassandra`
+`PostgreSQL` `MongoDB` `MySQL` `Redis` `Supabase` `Apache Cassandra` `ElectricSQL` 
 
 ### DevOps & Infra
 
-`Docker` `Kubernetes` `GitHub Actions` `Grafana` `Prometheus` `Loki` `Electric` `OpenTelemetry` `PostHog`
+`Docker` `Kubernetes` `GitHub Actions` `Grafana` `Prometheus` `Loki` `OpenTelemetry`
 
 ### Tools & Concepts
 
-`Apache Kafka` `Apache JMeter` `Postman` `Distributed Systems` `Microservices` `Scalability` `System Design` `Concurrency` `Operating Systems` `Event-Driven Architecture` `Low-Level Design` `Android OS` `Computer hardware` 
+`Apache Kafka` `Apache JMeter` `Distributed Systems` `Microservices` `System Design` `Concurrency` `Operating Systems` `Low-Level Design` `Android OS` `Computer hardware` 
 
 <br/>
 
