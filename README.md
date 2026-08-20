@@ -54,11 +54,11 @@ Also a professional video editor, freelancer and post productionist with 8YOE, w
 
 ### AI
 
-`Agent orchestration` `Langraph` `MCP` `RAG` `Harness Engineering` `Safety Engineering` `MinHash & LSH` `KVCache`
+`Agent orchestration` `Langraph` `Langchain` `MCP` `RAG` `Harness Engineering` `Agent Loop` `MinHash & LSH` `KVCache`
 
 ### Databases
 
-`PostgreSQL` `MongoDB` `MySQL` `Redis` `Supabase` `Apache Cassandra` `ElectricSQL` 
+`PostgreSQL` `MongoDB` `MySQL` `Redis` `Apache Cassandra` `ElectricSQL` 
 
 ### DevOps & Infra
 
