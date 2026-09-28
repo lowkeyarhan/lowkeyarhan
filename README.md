@@ -7,8 +7,6 @@
 
 <img src="http://github-contrib-vault.vercel.app/api/languages" width="100%" alt="Languages used across my GitHub repositories, forks included." />
 
-<img src="http://github-contrib-vault.vercel.app/api/languages" width="100%" alt="Languages used across my GitHub repositories, forks included." />
-
 <a href="http://github-contrib-vault.vercel.app/api/graph"><img src="http://github-contrib-vault.vercel.app/api/graph" width="100%" alt="Contributions in the last year" /></a>
 
 <img src="http://github-contrib-vault.vercel.app/api/streak" width="100%" alt="Current streak, longest streak and all-time contributions" />
